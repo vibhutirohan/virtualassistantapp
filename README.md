@@ -61,22 +61,5 @@ Technology should be accessible to all. This app was inspired by real user needs
 git clone https://github.com/YOUR_USERNAME/virtualassistantapp.git
 cd virtualassistantapp
 
-```bash 
-2. Open in Android Studio
-Launch Android Studio.
-
-Select Open an existing project and navigate to your project folder.
-
-3. Configure APIs
-Obtain an OpenWeatherMap API Key and a Google Maps API Key.
-
-Add your API keys in the appropriate places:
-
-local.properties or directly in res/values/strings.xml as needed.
-
-4. Build & Run
-Plug in an Android device or start an emulator.
-
-Click Run or use the Gradle build system.
 
 
