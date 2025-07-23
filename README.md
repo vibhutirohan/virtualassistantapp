@@ -6,38 +6,51 @@ Empowering independence through technology.
 
 ## 📝 Overview
 
-**Virtual Assistant App for Visually Impaired People** is an accessibility-focused mobile application designed to assist users who are visually impaired or blind. The app leverages speech recognition, text-to-speech, real-time navigation, and smart notifications to make everyday tasks simpler, safer, and more connected.
+The **Virtual Assistant App for Visually Impaired People** is an Android application built with Java and Kotlin, designed to support users with visual impairments in their daily lives. By combining voice recognition, text-to-speech, real-time navigation, and practical utilities, this app makes smartphones friendlier and more helpful for everyone.
 
 ---
 
-## 🌟 Key Features
+## 🌟 Features
 
 - **Voice Commands**  
-  Users can control the app entirely with their voice for a hands-free experience.
+  Full voice control for hands-free operation.
 
-- **Real-time Navigation**  
-  Get step-by-step spoken directions and nearby place info.
+- **Real-Time Navigation**  
+  Step-by-step audio navigation and spoken directions.
 
-- **Location Tracking**  
-  Instantly know your current location and receive spoken updates.
+- **Current Location Announcements**  
+  The app can speak out the user's current location at any time.
 
 - **Weather Assistant**  
-  Real-time weather reports delivered via audio.
+  Voice-enabled weather updates based on location.
 
-- **Date, Time & Battery Announcements**  
-  Stay updated on the essentials with quick, spoken summaries.
+- **Date, Time & Battery Status**  
+  Audible updates for essential device info.
 
-- **Accessible Interface**  
-  Large buttons, high-contrast UI, and full screen-reader support.
+- **User-Friendly UI**  
+  Large buttons, high contrast, and TalkBack screen reader support.
 
-- **Emergency Assistance**  
-  Quick access to emergency contacts and services.
+- **Emergency Support**  
+  One-tap access to emergency contacts and services.
 
 ---
 
 ## 🎯 Motivation
 
-Millions of people around the world face barriers due to vision loss. This project was created to make the digital world more accessible, providing essential daily information and assistance through an easy-to-use, voice-driven interface.
+Technology should be accessible to all. This app was inspired by real user needs, aiming to remove digital barriers and provide visually impaired users with the confidence to navigate daily life independently.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Platform:** Android
+- **Languages:** Java, Kotlin
+- **APIs/Libraries:**  
+  - Android Speech Recognition  
+  - Android Text-to-Speech (TTS)  
+  - Google Maps & Location Services  
+  - OpenWeatherMap API (for weather data)  
+  - Accessibility Services
 
 ---
 
